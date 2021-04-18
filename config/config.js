@@ -8,7 +8,7 @@ function getEnvValues(env) {
                 "MONGO_URL": "mongodb://127.0.0.1:27017/crudapp",
                 "MONGO_DB":"crudapp",
                 'secret': 'ATHBKLOPCHKL',
-                'session_timeout':120, //in seconds,
+                'session_timeout':900, //in 15minutes
                 "SENDGRID_API_KEY":"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",
                 "reset_url":"http://localhost:4200",
                 "from_email":'phpngdeveloper@gmail.com',
@@ -19,7 +19,7 @@ function getEnvValues(env) {
                 "MONGO_URL": "mongodb://127.0.0.1:27017/crudapp",
                 "MONGO_DB":"crudapp",
                 'secret': 'ATHBKLOPCHKL',
-                'session_timeout':120, //in seconds,
+                'session_timeout':900, //in 15minutes
                 "SENDGRID_API_KEY":"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",
                 "reset_url":"http://localhost:4200",
                 "from_email":'phpngdeveloper@gmail.com',
@@ -30,7 +30,7 @@ function getEnvValues(env) {
                 "MONGO_URL": "mongodb://127.0.0.1:27017/crudapp",
                 "MONGO_DB":"crudapp",
                 'secret': 'supersecret',
-                'session_timeout':120, //in seconds,
+                'session_timeout':900, //in 15minutes
                 "SENDGRID_API_KEY":"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",
                 "reset_url":"http://localhost:4200",
                 "from_email":'phpngdeveloper@gmail.com',
@@ -42,7 +42,7 @@ function getEnvValues(env) {
                 "MONGO_URL": "mongodb://127.0.0.1:27017/crudapp",
                 "MONGO_DB":"crudapp",
                 'secret': 'ATHBKLOPCHKL',
-                'session_timeout':120, //in seconds,
+                'session_timeout':900, //in 15minutes
                 "SENDGRID_API_KEY":"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",
                 "reset_url":"http://localhost:4200",
                 "from_email":'phpngdeveloper@gmail.com',
@@ -55,7 +55,7 @@ function getEnvValues(env) {
                 "MONGO_URL": "mongodb://127.0.0.1:27017/crudapp",
                 "MONGO_DB":"crudapp",
                 'secret': 'ATHBKLOPCHKL',
-                'session_timeout':120, //in seconds,
+                'session_timeout':900, //in 15minutes
                 "SENDGRID_API_KEY":"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",
                 "reset_url":"http://localhost:4200",
                 "from_email":'phpngdeveloper@gmail.com',
