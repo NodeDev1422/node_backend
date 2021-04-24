@@ -5,7 +5,7 @@ function getEnvValues(env) {
 
         case 'local':
             result = {
-                "MONGO_URL": "mongodb://ugxyr6vtxzdershcvetv:Y5tJ97wWZQVkynuaxYOH@b5bt2qa9brimuet-mongodb.services.clever-cloud.com:27017/b5bt2qa9brimuet",
+                "MONGO_URL": "mongodb+srv://admin:Y8ec2004@cluster0.9ykn3.mongodb.net/test",
                 "MONGO_DB":"crudapp",
                 'secret': 'ATHBKLOPCHKL',
                 'session_timeout':900, //in 15minutes
@@ -52,7 +52,7 @@ function getEnvValues(env) {
 
         default:
             result = {
-                "MONGO_URL": "mongodb://ugxyr6vtxzdershcvetv:Y5tJ97wWZQVkynuaxYOH@b5bt2qa9brimuet-mongodb.services.clever-cloud.com:27017/b5bt2qa9brimuet",
+                "MONGO_URL": "mongodb+srv://admin:Y8ec2004@cluster0.9ykn3.mongodb.net/test",
                 "MONGO_DB":"crudapp",
                 'secret': 'ATHBKLOPCHKL',
                 'session_timeout':900, //in 15minutes
